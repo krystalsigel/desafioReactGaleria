@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/desafioReactGaleria/static/css/main.e8f60676.css",
+    "main.js": "/desafioReactGaleria/static/js/main.216240fe.js",
+    "index.html": "/desafioReactGaleria/index.html",
+    "main.e8f60676.css.map": "/desafioReactGaleria/static/css/main.e8f60676.css.map",
+    "main.216240fe.js.map": "/desafioReactGaleria/static/js/main.216240fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8f60676.css",
+    "static/js/main.216240fe.js"
+  ]
+}
